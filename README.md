@@ -185,10 +185,10 @@ Click the button in the app to generate your RFQ PDF dynamically with all vendor
 **Aalam Info Solutions LLP** – Established in 2016, providing **custom software solutions** for dynamic business needs.
 Our goal: Quality, end-to-end software services at an affordable price.
 
-🌐 [Website](https://aalamsoft.com/)
-🔗 [LinkedIn](https://www.linkedin.com/company/aalam-info-solution-llp)
-📷 [Instagram](https://instagram.com/aalaminfo?igshid=YmMyMTA2M2Y=)
-📘 [Facebook](https://www.facebook.com/Aalam-Info-Solutions-LLP-775574966147738/)
+🌐 [Website](https://mis-tech.net)
+🔗 [LinkedIn](https://www.linkedin.com/in/salek-masud-parvez)
+📷 [Instagram](https://instagram.com/salekmasudparvez)
+📘 [Facebook](https://www.facebook.com/salekmasudparvez)
 
 ---
 
