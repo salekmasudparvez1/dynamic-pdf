@@ -1,8 +1,3 @@
-Of course. Here is a complete, single-file guide.
-
-This Markdown file contains all the instructions and code you need in one place. The React code has been consolidated into a single `App.js` file, so you don't need to create a separate `components` folder.
-
-Just follow the steps in this file.
 
 ---
 
