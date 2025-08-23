@@ -82,7 +82,7 @@ Your project structure should look like this:
 ```
 pdf-generator/
 ├── public/
-│   ├── aalam.png   <-- Place your logo here
+│   ├── logo.png   <-- Place your logo here
 │   └── index.html
 ├── src/
 │   ├── App.js      <-- We will replace this file's content
